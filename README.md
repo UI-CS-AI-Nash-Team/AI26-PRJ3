@@ -95,7 +95,6 @@ Each experiment was repeated multiple times to measure performance accurately.
 | Random Agent | 20    | 20   | 100%     |
 | Greedy Agent | 20    | 15   | 75%      |
 
-> Replace these values with your actual experimental results.
 
 ## Analysis
 
