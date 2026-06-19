@@ -135,8 +135,7 @@ The evaluation function combines several heuristics to estimate the strength of 
 * Sajad Mohammadi
 * Erfan Moradi
 * Hossein Karimjafari
+
 ## Repository
 
-```text
-https://github.com/your-username/your-repository
-```
+> https://github.com/UI-CS-AI-Nash-Team/AI26-PRJ3
