@@ -130,10 +130,11 @@ The evaluation function combines several heuristics to estimate the strength of 
 
 ## Authors
 
-* Behnam Moein
-* Sajad Mohammadi
-* Erfan Moradi
+
 * Hossein Karimjafari
+* Erfan Moradi
+* Sajad Mohammadi
+* Behnam Moein
 
 ## Repository
 
